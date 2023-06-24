@@ -2,7 +2,7 @@
 
 > Collect data files → convert files to CSV → convert CSV files to EDF
 
-![Convert CSV files to EDF](../assets/Resources/EEGLab_Tutorial_Images/csv_to_edf.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/csv_to_edf.png" alt="Convert CSV files to EDF" width="550" height="300" />
 
 <br />
 
@@ -10,7 +10,7 @@
 
 > File → Import Data → Using EEGLAB functions and plugins → From EDF Files
 
-![Open an existing dataset](../assets/Resources/EEGLab_Tutorial_Images/open_dataset.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/open_dataset.png" alt="Open an existing dataset" width="500" height="400" />
 
 <br />
 
@@ -18,21 +18,21 @@
 
 > File → Import event info → From MATLAB array or ASCII file
 
-![Edit events info](../assets/Resources/EEGLab_Tutorial_Images/edit_events.png)
-![Events file](../assets/Resources/EEGLab_Tutorial_Images/events.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/edit_events.png" alt="Edit events info" width="550" height="300" />
+<img src="../assets/Resources/EEGLab_Tutorial_Images/events.png" alt="Events file" width="400" height="350" />
 
 <br />
 
 ## 4. **Edit → Channel locations**
 
-![Channel locations in 2D](../assets/Resources/EEGLab_Tutorial_Images/channel_locations_2D.png)
-![Channel locations in 3D](../assets/Resources/EEGLab_Tutorial_Images/channel_locations_3D.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/channel_locations_2D.png" alt="Channel locations in 2D" width="400" height="350" />
+<img src="../assets/Resources/EEGLab_Tutorial_Images/channel_locations_3D.png" alt="Channel locations in 3D" width="400" height="350" />
 
 <br />
 
 ## 5. **Plotting Channel Spectra and Maps:**
 
-![Plot channel spectra and maps](../assets/Resources/EEGLab_Tutorial_Images/channel_maps.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/channel_maps.png" alt="Plot channel spectra and maps" width="500" height="400" />
 
 <br />
 
@@ -40,7 +40,7 @@
 
 > Tools → Extract epochs
 
-![Extract epochs](../assets/Resources/EEGLab_Tutorial_Images/extract_epochs.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/extract_epochs.png" alt="Extract epochs" width="600" height="400" />
 
 <br />
 
@@ -48,7 +48,7 @@
 
 > Plot → Channel ERP Image
 
-![Channel ERP image](../assets/Resources/EEGLab_Tutorial_Images/channel_ERP_1.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/channel_ERP_1.png" alt="Channel ERP image" width="500" height="400" />
 
 <br />
 
@@ -56,13 +56,13 @@
 
 > Plot → Channel ERPs → In scalp/rect. Array
 
-![Plot of ERP traces](../assets/Resources/EEGLab_Tutorial_Images/ERP_traces.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/ERP_traces.png" alt="Plot of ERP traces" width="500" height="400" />
 
 <br />
 
 **Plot in rectangular array**
 
-![Plot of ERP traces in rectangular array](../assets/Resources/EEGLab_Tutorial_Images/ERP_traces_rect.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/ERP_traces_rect.png" alt="Plot of ERP traces in rectangular array" width="500" height="400" />
 
 <br />
 
@@ -70,15 +70,17 @@
 
 > Plot → ERP Map Series → In 2D
 
-![Configure ERP map series for 2D](../assets/Resources/EEGLab_Tutorial_Images/ERP_map_2D.png)
-![Plot ERP map series in 2D](../assets/Resources/EEGLab_Tutorial_Images/ERP_plot_2D.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/ERP_map_2D.png" alt="Configure ERP map series for 2D" width="500" height="300" />
+<br />
+<img src="../assets/Resources/EEGLab_Tutorial_Images/ERP_plot_2D.png" alt="Plot ERP map series in 2D" width="500" height="450" />
 
 <br />
 
 > Plot → ERP Map Series → In 3D
 
-![Configure ERP map series for 3D](../assets/Resources/EEGLab_Tutorial_Images/ERP_map_3D.png)
-![Plot ERP map series in 3D](../assets/Resources/EEGLab_Tutorial_Images/ERP_plot_3D.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/ERP_map_3D.png" alt="Configure ERP map series for 3D" width="700" height="350" />
+<br />
+<img src="../assets/Resources/EEGLab_Tutorial_Images/ERP_plot_3D.png" alt="Plot ERP map series in 3D" width="500" height="400" />
 
 <br />
 
@@ -86,7 +88,7 @@
 
 > Plot → Channel ERP image
 
-![Channel ERP image](../assets/Resources/EEGLab_Tutorial_Images/channel_ERP_2.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/channel_ERP_2.png" alt="Channel ERP image" width="500" height="400" />
 
 <br />
 
@@ -100,7 +102,7 @@ Too few trials.
 
 > Tools → Decompose data by ICA
 
-![Decompose data by ICA](../assets/Resources/EEGLab_Tutorial_Images/ICA.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/ICA.png" alt="Decompose data by ICA" width="750" height="350" />
 
 <br />
 
@@ -108,13 +110,13 @@ Too few trials.
 
 > Plot → Component Maps → In 2D
 
-![Component maps in 2D](../assets/Resources/EEGLab_Tutorial_Images/component_maps_2D.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/component_maps_2D.png" alt="Component maps in 2D" width="500" height="500" />
 
 <br />
 
 > Plot → Component activations (scroll)
 
-![Component activations (scroll)](../assets/Resources/EEGLab_Tutorial_Images/component_activations_1.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/component_activations_1.png" alt="Component activations (scroll)" width="500" height="350" />
 
 <br />
 
@@ -122,7 +124,7 @@ Too few trials.
 
 > Plot → Component maps → In 3D
 
-![Component maps in 3D](../assets/Resources/EEGLab_Tutorial_Images/component_maps_3D.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/component_maps_3D.png" alt="Component maps in 3D" width="500" height="500" />
 
 <br />
 
@@ -130,25 +132,25 @@ Too few trials.
 
 > Tools → Remove components from data
 
-![Remove components from data](../assets/Resources/EEGLab_Tutorial_Images/remove_components.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/remove_components.png" alt="Remove components from data" width="500" height="500" />
 
 <br />
 
 > Plot → Component activations (scroll)
 
-![Component activations (scroll)](../assets/Resources/EEGLab_Tutorial_Images/component_activations_2.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/component_activations_2.png" alt="Component activations (scroll)" width="500" height="350" />
 
 <br />
 
 > Plot → Component properties
 
-![Component properties](../assets/Resources/EEGLab_Tutorial_Images/component_properties.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/component_properties.png" alt="Component properties" width="500" height="500" />
 
 <br />
 
 **Channel data (scroll)**
 
-![Channel data (scroll)](../assets/Resources/EEGLab_Tutorial_Images/channel_data.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/channel_data.png" alt="Channel data (scroll)" width="500" height="350" />
 
 <br />
 
@@ -156,8 +158,8 @@ Too few trials.
 
 > Plot → Component spectra and maps
 
-![Component spectra and maps](../assets/Resources/EEGLab_Tutorial_Images/component_spectra_1.png)
-![Component spectra and maps](../assets/Resources/EEGLab_Tutorial_Images/component_spectra_2.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/component_spectra_1.png" alt="Component spectra and maps" width="500" height="400" />
+<img src="../assets/Resources/EEGLab_Tutorial_Images/component_spectra_2.png" alt="Component spectra and maps" width="500" height="400" />
 
 <br />
 
@@ -165,7 +167,7 @@ Too few trials.
 
 > Plot → Component ERPs → In rectangular array
 
-![Component ERPs in rectangular array](../assets/Resources/EEGLab_Tutorial_Images/component_ERP_rect.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/component_ERP_rect.png" alt="Component ERPs in rectangular array" width="450" height="350" />
 
 <br />
 
@@ -173,4 +175,4 @@ Too few trials.
 
 > Plot → Component time-frequency
 
-![Component time-frequency](../assets/Resources/EEGLab_Tutorial_Images/component_time_frequency.png)
+<img src="../assets/Resources/EEGLab_Tutorial_Images/component_time_frequency.png" alt="Component time-frequency" width="500" height="400" />
